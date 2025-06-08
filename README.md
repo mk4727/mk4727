@@ -113,8 +113,8 @@
 
 
 ## 📫 Get in Touch
-- **Email:** anuragprajapati02005@gmail.com
-- **LinkedIn:** [Anurag915](https://www.linkedin.com/in/anurag-prajapati-026918268)
+- **Email:** mayank25108@gmail.com
+- **LinkedIn:** [mk4727](https://www.linkedin.com/in/mayank-076473239/)
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
 
