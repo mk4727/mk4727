@@ -3,8 +3,8 @@
 
 # Hi there! 👋 I'm Mayank 🚀  
 
-💻 **Aspiring Software Developer** | MERN & Java Full Stack  
-⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
+💻 **Aspiring Software Developer** | MERN & Full Stack  
+<!--⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  -->
 📚 Always learning & building cool projects!  
 
 
