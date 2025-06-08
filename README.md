@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
 
  
   <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-</div>
+</div> -->
 
 ###
 ## 🛠️ Technologies & Tools
