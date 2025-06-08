@@ -1,4 +1,4 @@
-<img src="" alt="GitHub Banner" width="100%" />
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
 
 # Hi there! 👋 I'm Anurag Prajapati 🚀  
