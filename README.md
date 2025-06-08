@@ -1,7 +1,7 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
 
-# Hi there! 👋 I'm Anurag Prajapati 🚀  
+# Hi there! 👋 I'm Mayank 🚀  
 
 💻 **Aspiring Software Developer** | MERN & Java Full Stack  
 ⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
